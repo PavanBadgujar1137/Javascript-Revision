@@ -30,7 +30,8 @@ console.log(str3)
 // console.log(+true)
 // console.log(+"")
 
-let gameCounter = 100
-gameCounter++
-++gameCounter
-console.log(gameCounter)
+// let gameCounter = 100
+// gameCounter++
+// ++gameCounter
+// console.log(gameCounter)
+// Learn prefix and postprefix on MDN
