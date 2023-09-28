@@ -80,8 +80,14 @@ console.log(instructor)// Hitesh
 
 // Before comes data from the backend in form of XML structure but now come the data from the backent in the form of JSON()
 //  key and value also in the form of string in JSON
-{
-    "name":"hitesh",
-    "courseName":"Js in hindi",
-    "price":"free"
-}
+// {
+//     "name":"hitesh",
+//     "courseName":"Js in hindi",
+//     "price":"free"
+// }
+
+// [
+//     {},
+//     {},
+//     {},
+// ]
